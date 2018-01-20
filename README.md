@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/andreaiosue/sales-taxes.svg?style=svg)](https://circleci.com/gh/andreaiosue/sales-taxes)
+
 # Sales Taxes
 
 Demo Sales Taxes application
