@@ -6,7 +6,11 @@ Demo Sales Taxes application
 
 ## Getting Started
 
-The setup to run this project is very straightforward, all required software components are provided within this code repository.
+The application calculates sales taxes for given input products.
+
+Input is fed each time within a distinct JUnit test.
+
+After each unit test execution completes, calculation output gets printed to console.
 
 ### Prerequisites
 
@@ -22,7 +26,7 @@ git clone https://github.com/andreaiosue/sales-taxes.git
 
 ## Running the tests
 
-All the test cases are contained in a single test suite.
+All the test cases are contained in a single test suite under the `/src/test/java directory.
 
 ### Print the application output
 
