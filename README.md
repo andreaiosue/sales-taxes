@@ -26,7 +26,7 @@ git clone https://github.com/andreaiosue/sales-taxes.git
 
 ## Running the tests
 
-All the test cases are contained in a single test suite under the `/src/test/` java directory.
+All the test cases are contained in a single test suite under the `/src/test/java` directory.
 
 ### Print the application output
 
